@@ -1,9 +1,9 @@
 <settings>
 	<servers>
-	<server>
-	    <id>anypoint.credentials</id>
-		<username>${env.PLATFORM_USERNAME}</username>
-		<password>${env.PLATFORM_PASSWORD}</password>
-    </server>	
+		<server>
+			<id>anypoint.credentials</id>
+			<username>mule-ace-academy</username>
+			<password>maa@Apr2023</password>
+		</server>
 	</servers>
 </settings>
